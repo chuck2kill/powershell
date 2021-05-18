@@ -1,2 +1,1 @@
-$a = (1, 2, 3)
-$a | Out-GridView
+Write-Host "Hello World, I'm a Jenkins build!"
